@@ -1,0 +1,611 @@
+Condition	Venn_Label	Genera	Meaning
+Calf oral to Meconium (Paired)	A	Faecalibacterium	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Blautia	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Sharpea	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Mediterraneibacter	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Lactobacillus	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Anaerostipes	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Agathobacter	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Absicoccus	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Dorea	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Roseburia	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Enterocloster	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	A	Anaeromassilibacillus	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Paired)	B	Pseudidiomarina	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Dietzia	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Croceibacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Pelagibacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Tessaracoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Ornithinimicrobium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Demequina	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Altererythrobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Aestuariicella	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Cellvibrio	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Cognatiluteimonas	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Brevibacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Novosphingobium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Jeotgalicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Polaribacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Galbibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Hoeflea	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Ornithinicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Ilumatobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Mesorhizobium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Bhargavaea	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Halopseudomonas	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Myceligenerans	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Salsipaludibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Profundicola	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Aequorivita	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Sarcina	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Pedobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Citricoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Halomonas	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Xylanibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Oceanicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Denitrificimonas	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Pseudactinotalea	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Streptococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Methanosarcina	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Serinicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Membranihabitans	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Nitrosococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Sphingosinithalassobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Enteractinococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Leifsonia	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Enemella	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Roseovarius	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Fundicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Sulfitobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Sphingomonas	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Actinotalea	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Pseudorhizobium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Aquamicrobium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Ruoffia	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Herbinix	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Pseudoalteromonas	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Nostocoides	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Symbiodinium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Sphingobacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Leucobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Aeromicrobium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Alkalibacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Pusillimonas	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Carnobacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Sediminihaliea	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Parasphingorhabdus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Gelidibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Phaeobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Portibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Pseudohoeflea	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Promicromonospora	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Chelativorans	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Desertimonas	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Desemzia	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Aurantiacibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Croceicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Sphingobium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Nitratireductor	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Georgenia	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Intrasporangium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Bauldia	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Klebsiella	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Neorhizobium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Pelagivirga	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Atopostipes	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Occultella	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Aminobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Oceaniglobus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Aliiroseovarius	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Psychroserpens	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Flavobacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Brumimicrobium	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Jeotgalibaca	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Jonesia	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Myroides	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Mumia	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Xanthomarina	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Agrococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Fodinicurvata	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Brucella	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Bos	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Methanobrevibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	B	Paenibacillus	Bacterial sequence sharing only
+Calf oral to Meconium (Paired)	C	Thomasclavelia	Predicted host genera of shared phages only
+Calf oral to Meconium (Paired)	D	Paracoccus	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Calf oral to Meconium (Paired)	D	Janibacter	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Calf oral to Meconium (Paired)	D	Aerococcus	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Calf oral to Meconium (Paired)	D	Staphylococcus	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Calf oral to Meconium (Paired)	D	Escherichia	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Calf oral to Meconium (Paired)	F	Acinetobacter	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	F	Luteimonas	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	F	Rhodococcus	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	F	Cellulomonas	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	F	Streptomyces	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	F	Micrococcus	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	F	Gordonia	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	F	Bacillus	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	G	Microbacterium	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	G	Pseudomonas	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	G	Corynebacterium	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	G	Brachybacterium	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	G	Glutamicibacter	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	G	Nocardioides	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	G	Psychrobacter	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Paired)	G	Arthrobacter	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	A	Faecalibacterium	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Blautia	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Sharpea	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Mediterraneibacter	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Lactobacillus	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Anaerostipes	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Agathobacter	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Absicoccus	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Dorea	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Roseburia	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Enterocloster	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	A	Anaeromassilibacillus	Concordant bacterial and phage-host enrichment only
+Calf oral to Meconium (Unpaired)	B	Halopseudomonas	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Pelagibacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Ornithinimicrobium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Galbibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Aestuariicella	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Pedobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Ornithinicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Cognatiluteimonas	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Jeotgalicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Fundicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Carnobacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Aequorivita	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Parasphingorhabdus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Brumimicrobium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Leucobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Acinetobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Tessaracoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Demequina	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Altererythrobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Brevibacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Cellvibrio	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Polaribacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Hoeflea	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Ilumatobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Mesorhizobium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Myceligenerans	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Dietzia	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Salsipaludibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Profundicola	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Pseudidiomarina	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Citricoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Geobacillus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Jeotgalibaca	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Luteimonas	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Aliicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Paenimyroides	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Ruoffia	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Oceanicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Denitrificimonas	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Enemella	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Bos	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Roseovarius	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Flavobacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Enterococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Ruminococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Desemzia	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Pseudoalteromonas	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Pseudohoeflea	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Sphingomonas	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Methanosarcina	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Gelidibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Sphingobacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Novosphingobium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Chryseobacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Symbiodinium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Bhargavaea	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Desertimonas	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Aquamicrobium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Myroides	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Actinotalea	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Ruthenibacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Halomonas	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Sphingosinithalassobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Chelativorans	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Herbinix	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Croceibacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Serinicoccus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Xanthomarina	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Sarcina	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Nitratireductor	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Mumia	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Nostocoides	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Salvelinus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Promicromonospora	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Globicatella	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Bauldia	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Sulfitobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Alkalibacterium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Aurantiacibacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Pusillimonas	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Aeromicrobium	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Klebsiella	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Empedobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Atopostipes	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Micrococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Nitrosococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Jonesia	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Agrococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Aminobacter	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Parabacteroides	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Brucella	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Streptococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Neomicrococcus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Fodinicurvata	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Pseudactinotalea	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Pelagivirga	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Aliiroseovarius	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Psychroserpens	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	B	Epsilonpolyomavirus	Bacterial sequence sharing only
+Calf oral to Meconium (Unpaired)	C	Clostridia	Predicted host genera of shared phages only
+Calf oral to Meconium (Unpaired)	C	Bacteroidota	Predicted host genera of shared phages only
+Calf oral to Meconium (Unpaired)	C	Intrasporangium	Predicted host genera of shared phages only
+Calf oral to Meconium (Unpaired)	C	Chaetfec	Predicted host genera of shared phages only
+Calf oral to Meconium (Unpaired)	D	Paracoccus	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Calf oral to Meconium (Unpaired)	D	Janibacter	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Calf oral to Meconium (Unpaired)	D	Staphylococcus	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Calf oral to Meconium (Unpaired)	F	Streptomyces	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	F	Bacillus	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	F	Gordonia	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	F	Leifsonia	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	F	Cellulomonas	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	F	Rhodococcus	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	F	Georgenia	Bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	G	Microbacterium	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	G	Pseudomonas	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	G	Corynebacterium	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	G	Brachybacterium	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	G	Glutamicibacter	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	G	Nocardioides	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	G	Psychrobacter	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	G	Arthrobacter	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	G	Aerococcus	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Calf oral to Meconium (Unpaired)	G	Escherichia	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	A	Pseudomonas	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Paired)	A	Nocardioides	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Paired)	A	Faecalibacterium	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Paired)	A	Blautia	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Paired)	A	Mediterraneibacter	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Paired)	A	Lactobacillus	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Paired)	A	Anaerostipes	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Paired)	A	Absicoccus	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Paired)	A	Roseburia	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Paired)	A	Anaeromassilibacillus	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Paired)	B	Jeotgalicoccus	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Empedobacter	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Acinetobacter	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Sarcina	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Myroides	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Aequorivita	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Prevotella	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Ornithinimicrobium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Aquamicrobium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Ruoffia	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Fundicoccus	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Dietzia	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Slackia	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Porcincola	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Brevibacterium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Baileyella	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Pelagibacterium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Pedobacter	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Jeotgalibaca	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Enterococcus	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Flavobacterium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Klebsiella	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Faecalicatena	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Agrococcus	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Profundicola	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Holdemanella	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Mammaliicoccus	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Turicibacter	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Xanthomarina	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Alkalibacterium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Lachnoclostridium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Neglectibacter	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Fusobacterium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Parafannyhessea	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Carnobacterium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Oribacterium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Subdoligranulum	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Phascolarctobacterium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Roseovarius	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Enorma	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Hornefia	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Clostridioides	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Aliiroseovarius	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Faecalicoccus	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Megasphaera	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Bauldia	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Pseudobutyrivibrio	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Galactobacillus	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Bifidobacterium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Enterobacter	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Romboutsia	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Phocaeicola	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Shuttleworthella	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Gordonia	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Paenimyroides	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Fibrobacter	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Ruthenibacterium	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Rhodococcus	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Succinivibrio	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Neomicrococcus	Bacterial sequence sharing only
+Mother to Offspring (Paired)	B	Brucella	Bacterial sequence sharing only
+Mother to Offspring (Paired)	C	Bacilli	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Oscillospiraceae	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Clostridia	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Lachnospiraceae	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Clostridiales	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	virus	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Anaerotignum	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Segatella	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Candidatus	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Bacteroidales	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Acutalibacteraceae	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Bacillota	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Bacteroidaceae	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Alphaproteobacteria	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Alistipes	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Paenibacillus	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Streptomyces	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	C	Cellulomonas	Predicted host genera of shared phages only
+Mother to Offspring (Paired)	D	Microbacterium	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Brachybacterium	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Glutamicibacter	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Paracoccus	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Janibacter	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Sharpea	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Agathobacter	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Dorea	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Enterocloster	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Arthrobacter	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Staphylococcus	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	D	Escherichia	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Paired)	F	Methanobrevibacter	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	F	Stomatobaculum	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	F	Ruminococcus	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	F	Eubacterium	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	F	Bacteroides	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	F	Chordicoccus	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	F	Clostridium	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	F	Butyrivibrio	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	G	Corynebacterium	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	G	Psychrobacter	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Paired)	G	Aerococcus	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	A	Lactobacillus	Concordant bacterial and phage-host enrichment only
+Mother to Offspring (Unpaired)	B	Traorella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Intestinibaculum	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Sarcina	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Paenimyroides	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Fundicoccus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Ruoffia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Porcincola	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Roseovarius	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Agrococcus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Jeotgalibaca	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Ornithinimicrobium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Romboutsia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Alloprevotella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Pedobacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Lachnoclostridium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Pseudoflavonifractor	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Aquamicrobium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Dietzia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Coprococcus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Turicibacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Profundicola	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Aequorivita	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Subdoligranulum	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Anaerobutyricum	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Myroides	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Faecalicatena	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Ornithinicoccus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Streptococcus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Kineothrix	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Dialister	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Baileyella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Intestinimonas	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Clostridioides	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Segatella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Sphingobacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Negativibacillus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Bilifractor	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Gemmiger	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Acetivibrio	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Lachnospira	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Holdemania	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Pelagivirga	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Empedobacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Fusobacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Parablautia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Lactimicrobium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Stomatobaculum	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Macrococcoides	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Holdemanella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Candidatus_Colimorpha	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Evtepia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Faecalicoccus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Parafannyhessea	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Mammaliicoccus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Oribacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Micrococcus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Acetatifactor	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Flintibacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Eisenbergiella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Thomasclavelia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Sellimonas	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Pelagibacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Ligaoa	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Monoglobus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Oscillibacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Mycoplasma	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Herbinix	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Zhenpiania	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Hymenobacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Massilimicrobiota	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Robinsoniella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Mitsuokella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Mesorhizobium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Olsenella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Pseudoramibacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Dysosmobacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Brevibacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Hungatella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Catenisphaera	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Phascolarctobacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Ruthenibacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Anaerolactibacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Lawsonibacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Galactobacillus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Anaerotruncus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Enorma	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Carnobacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Chryseobacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Gelidibacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Coprobacillus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Galbibacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Drancourtella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Bauldia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Lactonifactor	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Oceaniglobus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Lupinus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Muribaculum	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Globicatella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Anaerovorax	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Merdimmobilis	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Petroclostridium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Butyricimonas	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Aminobacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Collinsella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Frisingicoccus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Desemzia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Alkalibacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Candidatus_Amulumruptor	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Terrisporobacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Jeongeupia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Selenomonas	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Barnesiella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Cloacibacillus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Rhodococcus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Fusibacillus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Peptoclostridium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Ruminiclostridium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Ruminobacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Catenibacterium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Gallintestinimicrobium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Zongyangia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Duncaniella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Acetitomaculum	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Candidatus_Cryptobacteroides	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Leyella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Parolsenella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Aeromicrobium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Slackia	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Hominisplanchenecus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Pseudobutyrivibrio	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Butyricicoccus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Atopostipes	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Hoeflea	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Mordavella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Shuttleworthella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Sphingomonas	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Nitratireductor	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Brumimicrobium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Epsilonpolyomavirus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Leucobacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Croceicoccus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Tractidigestivibacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Waltera	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Enterobacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Bovifimicola	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Colidextribacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Neomicrococcus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Sinanaerobacter	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Xanthomarina	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Aliicoccus	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Novosphingobium	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Aristaeella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Brucella	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	B	Luteimonas	Bacterial sequence sharing only
+Mother to Offspring (Unpaired)	C	virus	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Clostridiales	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Oscillospiraceae	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Lachnospiraceae	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Bacteroidaceae	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Acutalibacteraceae	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Bacteroidales	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Alphaproteobacteria	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Bacillota	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Bacilli	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Clostridia	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Streptomyces	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Pseudoalteromonas	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Bacteroidota	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Candidatus	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Cellulomonas	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	C	Chaetfec	Predicted host genera of shared phages only
+Mother to Offspring (Unpaired)	D	Microbacterium	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Pseudomonas	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Brachybacterium	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Nocardioides	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Paracoccus	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Janibacter	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Faecalibacterium	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Sharpea	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Mediterraneibacter	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Anaerostipes	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Agathobacter	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Absicoccus	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Dorea	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Roseburia	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Enterocloster	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	D	Staphylococcus	Concordant bacterial and phage-host enrichment + bacterial sequence sharing
+Mother to Offspring (Unpaired)	F	Prevotella	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Jeotgalicoccus	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Chordicoccus	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Acinetobacter	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Alistipes	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Ruminococcus	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Enterococcus	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Anaerotignum	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Megasphaera	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Neglectibacter	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Hornefia	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Methanobrevibacter	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Bacteroides	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Clostridium	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Succinivibrio	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Bifidobacterium	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Parabacteroides	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Eubacterium	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Xylanibacter	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Butyrivibrio	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Phocaeicola	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Flavonifractor	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Akkermansia	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Mogibacterium	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Gordonibacter	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Paenibacillus	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Fibrobacter	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Treponema	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Gordonia	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Klebsiella	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Bacillus	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Flavobacterium	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	F	Acutalibacter	Bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	G	Corynebacterium	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	G	Glutamicibacter	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	G	Blautia	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	G	Anaeromassilibacillus	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	G	Psychrobacter	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	G	Arthrobacter	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	G	Aerococcus	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages
+Mother to Offspring (Unpaired)	G	Escherichia	Bacterial enrichment + phage-host enrichment + bacterial sequence sharing + predicted host genera of shared phages

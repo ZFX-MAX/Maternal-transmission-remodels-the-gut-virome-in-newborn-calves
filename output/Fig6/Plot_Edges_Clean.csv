@@ -1,0 +1,98 @@
+Pathway,Host_Genus,KO,Gene,From,To,Source,Shared_with_host,is_viral_AMG
+ko00250,Corynebacterium,K00135,gabD,Succinate semialdehyde + NAD +,Succinate +  + H,Bacteria,—,FALSE
+ko00250,Corynebacterium,K00259,ald,L-Alanine + NAD +,Pyruvate +  +  + H,Bacteria,—,FALSE
+ko00250,Corynebacterium,K00261,GLUD1_2,L-Glutamate + NAD +,2-Oxoglutarate +  +  + H,Bacteria,—,FALSE
+ko00250,Corynebacterium,K00262,E1.4.1.4,L-Glutamate + NADP +,2-Oxoglutarate +  +  + H,Bacteria,—,FALSE
+ko00250,Corynebacterium,K00265,gltB,2 L-Glutamate + NADP,L-Glutamine + 2-Oxoglutarate +  + H,Bacteria,—,FALSE
+ko00250,Corynebacterium,K00266,gltD,2 L-Glutamate + NADP,L-Glutamine + 2-Oxoglutarate +  + H,Bacteria,—,FALSE
+ko00250,Corynebacterium,K00278,nadB,L-Aspartate +,Oxaloacetate +  + Hydrogen peroxide,Bacteria,—,FALSE
+ko00790,Psychrobacter,K00287,DHFR,Tetrahydrofolate + NAD,Dihydrofolate +  + H,Virus,Yes,TRUE
+ko00790,Microbacterium,K00287,DHFR,Tetrahydrofolate + NAD,Dihydrofolate +  + H,Bacteria,—,FALSE
+ko00790,Psychrobacter,K00287,DHFR,Tetrahydrofolate + NAD,Dihydrofolate +  + H,Bacteria,—,FALSE
+ko00790,Psychrobacter,K00500,phhA,Tetrahydrobiopterin + L-Phenylalanine,Dihydrobiopterin + L-Tyrosine,Bacteria,—,FALSE
+ko04122,Psychrobacter,K00566,mnmA,tRNA uridine + [Enzyme]-S-sulfanylcysteine,tRNA containing 2-thiouridine + [Enzyme]-cysteine + AMP,Bacteria,—,FALSE
+ko00250,Corynebacterium,K00609,pyrB,Carbamoyl phosphate + L-Aspartate,N-Carbamoyl-L-aspartate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K00764,purF,5-Phosphoribosylamine +  + L-Glutamate,L-Glutamine + 5-Phospho-alpha-D-ribose 1-diphosphate,Bacteria,—,FALSE
+ko00790,Microbacterium,K00796,folP,"6-(Hydroxymethyl)-7,8-dihydropterin + 4-Aminobenzoate",Dihydropteroate,Bacteria,—,FALSE
+ko00790,Psychrobacter,K00796,folP,"6-(Hydroxymethyl)-7,8-dihydropterin + 4-Aminobenzoate",Dihydropteroate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K00812,aspB,L-Aspartate + 2-Oxoglutarate,Oxaloacetate + L-Glutamate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K00820,glmS,L-Glutamine + D-Fructose 6-phosphate,L-Glutamate + D-Glucosamine 6-phosphate,Bacteria,—,FALSE
+ko00790,Microbacterium,K00950,folK,"6-(Hydroxymethyl)-7,8-dihydropterin","AMP + 6-Hydroxymethyl-7,8-dihydropterin diphosphate",Bacteria,—,FALSE
+ko00790,Psychrobacter,K00950,folK,"6-(Hydroxymethyl)-7,8-dihydropterin","AMP + 6-Hydroxymethyl-7,8-dihydropterin diphosphate",Bacteria,—,FALSE
+ko04122,Psychrobacter,K01011,TST,Thiosulfate + Cyanide ion,Sulfite + Thiocyanate,Bacteria,—,FALSE
+ko00790,Microbacterium,K01077,ALP,Thiamin monophosphate,Thiamine,Bacteria,—,FALSE
+ko00790,Psychrobacter,K01077,ALP,Thiamin monophosphate,Thiamine,Bacteria,—,FALSE
+ko00790,Psychrobacter,K01113,phoD,"7,8-Dihydroneopterin 3'-triphosphate + 3","7,8-Dihydroneopterin + 3",Bacteria,—,FALSE
+ko00250,Corynebacterium,K01424,E3.5.1.1,L-Asparagine,L-Aspartate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K01425,glsA,L-Glutamine,L-Glutamate,Bacteria,—,FALSE
+ko00790,Microbacterium,K01497,ribA,4,"2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + 2",Bacteria,—,FALSE
+ko00790,Psychrobacter,K01497,ribA,4,"2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + 2",Bacteria,—,FALSE
+ko00250,Corynebacterium,K01580,E4.1.1.15,L-Glutamate,4-Aminobutanoate,Bacteria,—,FALSE
+ko00790,Microbacterium,K01633,folB,"7,8-Dihydroneopterin","6-(Hydroxymethyl)-7,8-dihydropterin",Bacteria,—,FALSE
+ko00790,Psychrobacter,K01633,folB,"7,8-Dihydroneopterin","6-(Hydroxymethyl)-7,8-dihydropterin",Bacteria,—,FALSE
+ko00790,Microbacterium,K01664,pabA,Chorismate + L-Glutamine,4-Amino-4-deoxychorismate + L-Glutamate,Bacteria,—,FALSE
+ko00790,Psychrobacter,K01664,pabA,Chorismate + L-Glutamine,4-Amino-4-deoxychorismate + L-Glutamate,Bacteria,—,FALSE
+ko00790,Microbacterium,K01665,pabB,Chorismate + L-Glutamine,4-Amino-4-deoxychorismate + L-Glutamate,Bacteria,—,FALSE
+ko00790,Psychrobacter,K01665,pabB,Chorismate + L-Glutamine,4-Amino-4-deoxychorismate + L-Glutamate,Bacteria,—,FALSE
+ko00790,Microbacterium,K01724,PCBD,4a-Hydroxytetrahydrobiopterin,Dihydrobiopterin,Bacteria,—,FALSE
+ko00790,Psychrobacter,K01724,PCBD,4a-Hydroxytetrahydrobiopterin,Dihydrobiopterin,Bacteria,—,FALSE
+ko00790,Microbacterium,K01737,queD,"7,8-Dihydroneopterin 3'-triphosphate",6-Pyruvoyltetrahydropterin,Virus,Yes,TRUE
+ko00790,Microbacterium,K01737,queD,"7,8-Dihydroneopterin 3'-triphosphate",6-Pyruvoyltetrahydropterin,Bacteria,—,FALSE
+ko00790,Psychrobacter,K01737,queD,"7,8-Dihydroneopterin 3'-triphosphate",6-Pyruvoyltetrahydropterin,Bacteria,—,FALSE
+ko00250,Corynebacterium,K01744,aspA,L-Aspartate,Fumarate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K01755,argH,N-(L-Arginino)succinate,Fumarate + L-Arginine,Bacteria,—,FALSE
+ko00250,Corynebacterium,K01756,purB,"N6-(1,2-Dicarboxyethyl)-AMP",Fumarate + AMP,Virus,Yes,TRUE
+ko00250,Corynebacterium,K01756,purB,"N6-(1,2-Dicarboxyethyl)-AMP",Fumarate + AMP,Bacteria,—,FALSE
+ko00250,Corynebacterium,K01779,racD,L-Aspartate,D-Aspartate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K01915,glnA,L-Glutamate +,+ L-Glutamine,Bacteria,—,FALSE
+ko00250,Corynebacterium,K01939,purA,IMP + L-Aspartate,"+ N6-(1,2-Dicarboxyethyl)-AMP",Virus,Yes,TRUE
+ko00250,Corynebacterium,K01939,purA,IMP + L-Aspartate,"+ N6-(1,2-Dicarboxyethyl)-AMP",Bacteria,—,FALSE
+ko00250,Corynebacterium,K01940,argG,L-Citrulline + L-Aspartate,AMP +  + N-(L-Arginino)succinate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K01953,asnB,L-Aspartate + L-Glutamine +,AMP +  + L-Asparagine + L-Glutamate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K01955,carB,L-Glutamine,L-Glutamate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K01956,carA,L-Glutamine,L-Glutamate,Bacteria,—,FALSE
+ko00790,Microbacterium,K02619,pabC,4-Amino-4-deoxychorismate,4-Aminobenzoate + Pyruvate,Bacteria,—,FALSE
+ko00790,Psychrobacter,K02619,pabC,4-Amino-4-deoxychorismate,4-Aminobenzoate + Pyruvate,Bacteria,—,FALSE
+ko04122,Psychrobacter,K03148,thiF,Sulfur-carrier protein,Adenylyl-[sulfur-carrier protein],Bacteria,—,FALSE
+ko00790,Microbacterium,K03342,pabBC,Chorismate + L-Glutamine,4-Amino-4-deoxychorismate + L-Glutamate,Bacteria,—,FALSE
+ko00790,Microbacterium,K03635,MOCS2B,Precursor Z + 2 Thiocarboxy-[sulfur-carrier protein],Molybdopterin + 2 Sulfur-carrier protein,Bacteria,—,FALSE
+ko00790,Psychrobacter,K03635,MOCS2B,Precursor Z + 2 Thiocarboxy-[sulfur-carrier protein],Molybdopterin + 2 Sulfur-carrier protein,Bacteria,—,FALSE
+ko04122,Psychrobacter,K03635,MOCS2B,Precursor Z + 2 Thiocarboxy-[sulfur-carrier protein],Molybdopterin + 2 Sulfur-carrier protein,Bacteria,—,FALSE
+ko00790,Microbacterium,K03637,moaC,"(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate",Precursor Z,Bacteria,—,FALSE
+ko00790,Psychrobacter,K03637,moaC,"(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate",Precursor Z,Bacteria,—,FALSE
+ko04122,Psychrobacter,K03637,moaC,"(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate",Precursor Z,Bacteria,—,FALSE
+ko00790,Microbacterium,K03638,moaB,Molybdopterin,Adenylated molybdopterin,Bacteria,—,FALSE
+ko00790,Psychrobacter,K03638,moaB,Molybdopterin,Adenylated molybdopterin,Bacteria,—,FALSE
+ko04122,Psychrobacter,K03638,moaB,Molybdopterin,Adenylated molybdopterin,Bacteria,—,FALSE
+ko00790,Microbacterium,K03639,moaA,+,"(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate +  +",Bacteria,—,FALSE
+ko00790,Psychrobacter,K03639,moaA,+,"(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate +  +",Bacteria,—,FALSE
+ko04122,Psychrobacter,K03639,moaA,+,"(8S)-3',8-Cyclo-7,8-dihydroguanosine 5'-triphosphate +  +",Bacteria,—,FALSE
+ko00790,Microbacterium,K03750,moeA,Adenylated molybdopterin + Molybdate,Molybdoenzyme molybdenum cofactor + AMP,Bacteria,—,FALSE
+ko00790,Psychrobacter,K03750,moeA,Adenylated molybdopterin + Molybdate,Molybdoenzyme molybdenum cofactor + AMP,Bacteria,—,FALSE
+ko00790,Microbacterium,K03752,mobA,Molybdoenzyme molybdenum cofactor,Guanylyl molybdenum cofactor,Bacteria,—,FALSE
+ko00790,Psychrobacter,K03752,mobA,Molybdoenzyme molybdenum cofactor,Guanylyl molybdenum cofactor,Bacteria,—,FALSE
+ko00790,Psychrobacter,K03793,PTR1,Tetrahydrobiopterin + 2 NADP,Biopterin + 2 + 2 H,Bacteria,—,FALSE
+ko04122,Psychrobacter,K04487,iscS,[Enzyme]-cysteine + L-Cysteine,[Enzyme]-S-sulfanylcysteine + L-Alanine,Bacteria,—,FALSE
+ko00790,Psychrobacter,K06879,queF,7-Aminomethyl-7-carbaguanine + 2 NADP,7-Cyano-7-carbaguanine + 2 + 2 H,Bacteria,—,FALSE
+ko00790,Microbacterium,K06920,queC,2 +  + 7-Carboxy-7-carbaguanine,2 AMP + 2 + 7-Cyano-7-carbaguanine,Virus,No,TRUE
+ko00790,Psychrobacter,K06920,queC,2 +  + 7-Carboxy-7-carbaguanine,2 AMP + 2 + 7-Cyano-7-carbaguanine,Bacteria,—,FALSE
+ko00790,Psychrobacter,K07141,mocA,Molybdoenzyme molybdenum cofactor + CTP,Cytidylyl molybdenum cofactor,Bacteria,—,FALSE
+ko00250,Corynebacterium,K07250,gabT,beta-Alanine + 2-Oxoglutarate,3-Oxopropanoate + L-Glutamate,Bacteria,—,FALSE
+ko00790,Psychrobacter,K09457,queF,7-Aminomethyl-7-carbaguanine + 2 NADP,7-Cyano-7-carbaguanine + 2 + 2 H,Bacteria,—,FALSE
+ko00790,Microbacterium,K10026,queE,"6-Carboxy-5,6,7,8-tetrahydropterin",7-Carboxy-7-carbaguanine,Virus,No,TRUE
+ko00790,Psychrobacter,K10026,queE,"6-Carboxy-5,6,7,8-tetrahydropterin",7-Carboxy-7-carbaguanine,Bacteria,—,FALSE
+ko00790,Microbacterium,K11754,folC,Tetrahydrofolate + L-Glutamate,+ THF-L-glutamate,Bacteria,—,FALSE
+ko00790,Psychrobacter,K11754,folC,Tetrahydrofolate + L-Glutamate,+ THF-L-glutamate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K13821,putA,L-Glutamate 5-semialdehyde + NAD +,L-Glutamate +  + H,Bacteria,—,FALSE
+ko00790,Microbacterium,K13940,sulD,"6-(Hydroxymethyl)-7,8-dihydropterin","AMP + 6-Hydroxymethyl-7,8-dihydropterin diphosphate",Bacteria,—,FALSE
+ko00790,Microbacterium,K13950,pabAB,Chorismate + L-Glutamine,4-Amino-4-deoxychorismate + L-Glutamate,Bacteria,—,FALSE
+ko00250,Corynebacterium,K14260,alaA,L-Alanine + 2-Oxoglutarate,Pyruvate + L-Glutamate,Bacteria,—,FALSE
+ko00790,Microbacterium,K14652,ribBA,4,"2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + 2",Bacteria,—,FALSE
+ko00790,Psychrobacter,K14652,ribBA,4,"2,5-Diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + 2",Bacteria,—,FALSE
+ko00790,Psychrobacter,K18589,dfrA1,Tetrahydrofolate + NAD,Dihydrofolate +  + H,Bacteria,—,FALSE
+ko00790,Psychrobacter,K18590,dfrA12,Tetrahydrofolate + NAD,Dihydrofolate +  + H,Bacteria,—,FALSE
+ko04122,Psychrobacter,K21029,moeB,Sulfur-carrier protein,Adenylyl-[sulfur-carrier protein],Bacteria,—,FALSE
+ko04122,Psychrobacter,K21140,mec,[Sulfur-carrier protein]-Gly-Gly-L-Cys,L-Cysteine + Sulfur-carrier protein,Virus,No,TRUE
+ko00790,Microbacterium,K21142,moaX,Precursor Z + 2 Thiocarboxy-[sulfur-carrier protein],Molybdopterin + 2 Sulfur-carrier protein,Bacteria,—,FALSE
+ko00790,Psychrobacter,K21142,moaX,Precursor Z + 2 Thiocarboxy-[sulfur-carrier protein],Molybdopterin + 2 Sulfur-carrier protein,Bacteria,—,FALSE
+ko04122,Psychrobacter,K21142,moaX,Precursor Z + 2 Thiocarboxy-[sulfur-carrier protein],Molybdopterin + 2 Sulfur-carrier protein,Bacteria,—,FALSE

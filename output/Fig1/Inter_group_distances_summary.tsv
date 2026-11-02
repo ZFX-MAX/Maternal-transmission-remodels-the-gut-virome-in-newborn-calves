@@ -1,0 +1,23 @@
+Comparison	Mother_Group	N	Mean_Distance	SD_Distance	Median_Distance
+"Baoji
+Mother to Oral"	M0dF	529	0.5115	0.0836	0.516
+"Baoji
+Mother to Oral"	M0dR	529	0.5245	0.0865	0.5127
+"Baoji
+Mother to Oral"	M21dF	506	0.585	0.1012	0.5849
+"Baoji
+Mother to Oral"	M21dR	414	0.6177	0.1376	0.5875
+"Baoji
+(Mother or Oral) to Meconium"	M0dF	529	0.8817	0.1199	0.9247
+"Baoji
+(Mother or Oral) to Meconium"	M0dR	529	0.8886	0.1183	0.9347
+"Baoji
+(Mother or Oral) to Meconium"	M21dF	506	0.8954	0.1036	0.933
+"Baoji
+(Mother or Oral) to Meconium"	M21dR	414	0.9089	0.1013	0.9466
+"Baoji
+(Mother or Oral) to Meconium"	Oral	529	0.8508	0.1425	0.9057
+"Gansu
+Mother to Meconium"	M0dF	784	0.8503	0.0846	0.8453
+"Gansu
+Mother to Meconium"	M0dR	784	0.8435	0.0865	0.8514
