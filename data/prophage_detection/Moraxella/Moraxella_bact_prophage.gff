@@ -1,0 +1,10 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=1717;seqhdr="0dKG00183.NODE_6297_length_1717_cov_10.936823"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+0dKG00183.NODE_6297_length_1717_cov_10.936823	Prodigal_v2.6.3	CDS	928	1194	31.7	-	0	ID=1_1;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.416;conf=99.95;score=32.93;cscore=23.24;sscore=9.69;rscore=5.11;uscore=-0.66;tscore=3.99;
+0dKG00183.NODE_6297_length_1717_cov_10.936823	Prodigal_v2.6.3	CDS	1187	1384	24.2	-	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.389;conf=99.62;score=24.21;cscore=13.38;sscore=10.83;rscore=7.64;uscore=0.08;tscore=3.11;
+# Sequence Data: seqnum=2;seqlen=1954;seqhdr="0dKG00353.NODE_28438_length_1954_cov_22.317009"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+0dKG00353.NODE_28438_length_1954_cov_22.317009	Prodigal_v2.6.3	CDS	361	558	21.6	+	0	ID=2_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.399;conf=99.31;score=21.62;cscore=19.40;sscore=2.21;rscore=2.26;uscore=-2.25;tscore=2.21;
+0dKG00353.NODE_28438_length_1954_cov_22.317009	Prodigal_v2.6.3	CDS	551	817	28.1	+	0	ID=2_2;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.408;conf=99.88;score=29.38;cscore=22.22;sscore=7.16;rscore=3.51;uscore=-0.43;tscore=2.83;
+0dKG00353.NODE_28438_length_1954_cov_22.317009	Prodigal_v2.6.3	CDS	810	1820	82.7	+	0	ID=2_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.401;conf=100.00;score=83.95;cscore=73.65;sscore=10.29;rscore=7.50;uscore=-1.28;tscore=2.83;
