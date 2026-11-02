@@ -1,0 +1,13 @@
+checkv_quality	N	Mean_Completeness	Mean_Contamination	Pct	Label	X_Label
+Complete	42	100	0	0.1	"42
+(0.1%)"	"Complete
+(comp 100%)"
+High-quality	1226	97.5	0.06	2.6	"1226
+(2.6%)"	"High-quality
+(comp 97.5%)"
+Medium-quality	3081	66.8	0.03	6.5	"3081
+(6.5%)"	"Medium-quality
+(comp 66.8%)"
+Low-quality	43347	16.3	0.01	90.9	"43347
+(90.9%)"	"Low-quality
+(comp 16.3%)"

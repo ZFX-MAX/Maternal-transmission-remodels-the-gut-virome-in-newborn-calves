@@ -1,0 +1,41 @@
+Comparison	Test	Statistic	P_value
+"Baoji
+Mother to Oral"	Kruskal-Wallis	152.282	8.48181737016001e-33
+"Baoji
+Mother to Oral"	Wilcoxon: M21dF vs M21dR		6.03745853570882e-18
+"Baoji
+Mother to Oral"	Wilcoxon: M0dR vs M21dR		4.33643937721135e-28
+"Baoji
+Mother to Oral"	Wilcoxon: M0dF vs M21dR		2.38759433870301e-12
+"Baoji
+Mother to Oral"	Wilcoxon: M0dR vs M21dF		6.45833976994667e-06
+"Baoji
+Mother to Oral"	Wilcoxon: M0dF vs M21dF		0.0121485446319777
+"Baoji
+Mother to Oral"	Wilcoxon: M0dF vs M0dR		4.54581309354711e-10
+"Baoji
+(Mother or Oral) to Meconium"	Kruskal-Wallis	1006.035	1.75707456447626e-216
+"Baoji
+(Mother or Oral) to Meconium"	Wilcoxon: M21dF vs M21dR		1.10870350131533e-37
+"Baoji
+(Mother or Oral) to Meconium"	Wilcoxon: M0dR vs M21dR		1.9367905176628e-42
+"Baoji
+(Mother or Oral) to Meconium"	Wilcoxon: M0dF vs M21dR		7.53594772777739e-32
+"Baoji
+(Mother or Oral) to Meconium"	Wilcoxon: Oral vs M21dR		9.71068125598951e-119
+"Baoji
+(Mother or Oral) to Meconium"	Wilcoxon: M0dR vs M21dF		1.03938905807549e-05
+"Baoji
+(Mother or Oral) to Meconium"	Wilcoxon: M0dF vs M21dF		0.168256217298066
+"Baoji
+(Mother or Oral) to Meconium"	Wilcoxon: Oral vs M21dF		6.88584673050456e-121
+"Baoji
+(Mother or Oral) to Meconium"	Wilcoxon: M0dF vs M0dR		5.11409965678192e-08
+"Baoji
+(Mother or Oral) to Meconium"	Wilcoxon: Oral vs M0dR		1.00159368098539e-81
+"Baoji
+(Mother or Oral) to Meconium"	Wilcoxon: Oral vs M0dF		2.73014051611387e-125
+"Gansu
+Mother to Meconium"	Kruskal-Wallis	42.681	6.44430662776799e-11
+"Gansu
+Mother to Meconium"	Wilcoxon: M0dF vs M0dR		6.44670791004909e-11
